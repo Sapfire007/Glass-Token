@@ -3,10 +3,6 @@
 **Hackathon Project Submission – Google Devs Sprint 2K25**  
 **Team Name:** Team AIR
 
----
-
-## Description
-Glass-Block (G-Block) 🚀 is a decentralized stock exchange using crypto & blockchain for secure, transparent trading. Built with Node.js, Express, MongoDB, React, and Ethers.js, it enables real-time transactions, MetaMask wallet integration, and global access, eliminating intermediaries and ensuring trustless, borderless financial markets. 🌐💰
 
 ---
 
