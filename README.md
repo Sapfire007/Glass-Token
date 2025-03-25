@@ -10,7 +10,7 @@
 - Surya Theja D (Leader)
 - Saptarshi Bose
 - Pranay Agastya
-- Rishwith Gharshakurtha
+- Rishwith Gharshakurthi
 
 ---
 
